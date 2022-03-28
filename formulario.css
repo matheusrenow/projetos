@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://www.inscricoes.resilia.dev/wp-content/themes/resilia/media/hero-blur/blur-background.png);
+    background-size: cover;
+}
+h1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    border-radius: 20px;
+    width: 20%;
+    height: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+form div{
+    flex-direction: column;
+    display: flex;
+    margin-bottom: 20px;
+    width: 500px;  
+}
+form input{
+    outline: unset;
+    padding: 10px;
+    border-radius: 20px;
+    width: auto;
+}
+form label{
+}

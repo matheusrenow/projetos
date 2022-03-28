@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://www.bceleva.com.br/wp-content/uploads/2020/04/wallpaper-azul-papel-de-parede-azul-fundo-7.jpg);
+    background-color: cornsilk;
+    font-family: 'Palette Mosaic', cursive;
+    text-align: center;
+}
+.imagens {
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 0 1em black;
+}
+h1 {
+    height: 40px;
+    color: black;
+    text-shadow: 0.1em 0.1em 0.2em rgb(171, 8, 204)
+}
+.lista {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+    color: black;
+    text-align: center;
+}
